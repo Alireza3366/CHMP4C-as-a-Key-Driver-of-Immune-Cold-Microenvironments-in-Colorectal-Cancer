@@ -50,3 +50,7 @@ rsconnect/
 
 # Ignoring .Rmd Files
 *.Rmd
+
+# Ignoring Large Files (RNASeq.Data)
+"RNASeq Data/"
+
